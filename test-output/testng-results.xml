@@ -4,16 +4,22 @@
     <line>
       <![CDATA[This is sample Hello prg]]>
     </line>
+    <line>
+      <![CDATA[This is second line ]]>
+    </line>
   </reporter-output>
-  <suite started-at="2021-04-18T22:48:27 BST" name="Default suite" finished-at="2021-04-18T22:48:27 BST" duration-ms="130">
+  <suite started-at="2021-05-09T13:04:04 BST" name="Default suite" finished-at="2021-05-09T13:04:04 BST" duration-ms="78">
     <groups>
     </groups>
-    <test started-at="2021-04-18T22:48:27 BST" name="Default test" finished-at="2021-04-18T22:48:27 BST" duration-ms="130">
+    <test started-at="2021-05-09T13:04:04 BST" name="Default test" finished-at="2021-05-09T13:04:04 BST" duration-ms="78">
       <class name="zzzdummy.Test1">
-        <test-method signature="SampleHello()[pri:0, instance:zzzdummy.Test1@10aa41f2]" started-at="2021-04-18T22:48:27 BST" name="SampleHello" finished-at="2021-04-18T22:48:27 BST" duration-ms="18" status="PASS">
+        <test-method signature="SampleHello()[pri:0, instance:zzzdummy.Test1@10aa41f2]" started-at="2021-05-09T13:04:04 BST" name="SampleHello" finished-at="2021-05-09T13:04:04 BST" duration-ms="13" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[This is sample Hello prg]]>
+            </line>
+            <line>
+              <![CDATA[This is second line ]]>
             </line>
           </reporter-output>
         </test-method> <!-- SampleHello -->

@@ -10,5 +10,6 @@ public class Test1 {
   public void SampleHello()
   {
 	  Reporter.log("This is sample Hello prg",true);
+	  Reporter.log("This is second line ",true);
   }
 }
